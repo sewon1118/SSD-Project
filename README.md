@@ -1,4 +1,4 @@
-# JPetStore
+# PetStore
 Sample Spring MVC project for the SSD class in 2020-1
 
 __주의: 먼저 우측 상단의 Fork 버튼을 클릭하여 이 리파지토리(https://github.com/cspark0/jpetstore)를 자신의 Github 계정으로 Fork(복사) 한 후 이용하기 바랍니다.__
